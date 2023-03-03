@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ayanworks/polygon-did-registrar": "^0.0.15",
-    "@ayanworks/polygon-did-resolver": "^0.0.13"
+    "@ayanworks/polygon-did-resolver": "^0.0.13",
+    "@ethersproject/wallet": "^5.7.0"
   }
 }
